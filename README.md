@@ -17,16 +17,6 @@
 <img src = "/image/image05.png">
 
 <img src = "/image/image06.png">
-
-<img src = "/image/image07.png">
-
-<img src = "/image/image08.png">
-
-<img src = "/image/image09.png">
-
-<img src = "/image/image10.png">
-
-<img src = "/image/image11.png">
             
 # 소수정예 딥러닝 입문 강의
 - 매주 3시간 / 6주 완성
